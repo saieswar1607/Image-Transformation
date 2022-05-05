@@ -48,8 +48,8 @@ Display all the Transformed images and end the program.
 
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By: Sai Eswar Kandukuri
+Register Number: 212221240020
 i)Image Translation
 
 import numpy as np

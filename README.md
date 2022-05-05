@@ -163,33 +163,32 @@ plt.show()
 ## Output:
 ### i)Image Translation
 <br>
-[](output/exp5_1.png)
+<img width="284" alt="exp5_1" src="https://user-images.githubusercontent.com/93427011/166984080-187dde77-2dd9-46ac-8dd2-05f166639f7a.png">
 <br>
 
 ### ii) Image Scaling
 <br>
-[](output/exp5_2.png)
+<img width="284" alt="exp5_2" src="https://user-images.githubusercontent.com/93427011/166984140-ce6a4b1b-a0cc-4197-b1c2-093e7f6335ab.png">
 <br>
-
 
 ### iii)Image shearing
 <br>
-[](output/exp5_3.png)
+<img width="215" alt="exp5_3" src="https://user-images.githubusercontent.com/93427011/166984174-15c56640-b384-48a4-a56a-999bc3dcfaaf.png">
 <br>
 
 ### iv)Image Reflection
 <br>
-[](output/exp5_4.png)
+<img width="288" alt="exp5_4" src="https://user-images.githubusercontent.com/93427011/166984202-bd6fc682-859c-4fc5-a061-49657cddfd8b.png">
 <br>
 
 ### v)Image Rotation
 <br>
-[](output/exp5_5.png)
+<img width="254" alt="exp5_5" src="https://user-images.githubusercontent.com/93427011/166984250-0f383633-ffcc-432b-b7a6-ad70a3205c65.png">
 <br>
 
 ### vi)Image Cropping
 <br>
-[](output/exp5_6.png)
+<img width="344" alt="exp5_6" src="https://user-images.githubusercontent.com/93427011/166984283-4c166d09-26bd-4bb5-a8a0-b5dc78a0d683.png">
 <br>
 
 ## Result: 

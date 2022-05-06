@@ -61,11 +61,11 @@ plt.axis("off")
 plt.imshow(inputImage)
 plt.show()
 rows, cols, dim = inputImage.shape
-M = np. float32 ([[1.5, 0 ,0],
-                 [0, 1.8, 0],
-                  [0, 0, 1]])
-scaledImage=cv2.warpPerspective(inputImage, M, (cols * 2, rows * 2))
-plt.imshow(scaledImage)
+M= np.float32([[1, 0, 100],
+                [0, 1, 200],
+                 [0, 0, 1]])
+translatedImage =cv2.warpPerspective (inputImage, M, (cols, rows))
+plt.imshow(translatedImage)
 plt.show()
 
 ii) Image Scaling
